@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Kobako, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Kobako. A one of Japanese junior high school student🚀</div>  
   
 
 - 🔭 I’m currently working on [secret](https://github.com/kobakoo)  
