@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [secret](https://github.com/kobakoo)  
   
 
-- 🌱 I’m currently learning Next.js and Ruby  
+- 🌱 I’m currently learning Next.js,Tailwind css and design.  
   
 
 - ❓ Ask me about anything related to design and related technologies  
